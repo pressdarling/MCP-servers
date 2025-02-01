@@ -1,6 +1,6 @@
 {
   "name": "@modelcontextprotocol/server-aws-kb-retrieval",
-  "version": "0.6.2",
+  "version": "2025.2.1",
   "description": "MCP server for AWS Knowledge Base retrieval using Bedrock Agent Runtime",
   "license": "MIT",
   "author": "Anthropic, PBC (https://anthropic.com)",
